@@ -9,7 +9,7 @@ gem 'bcrypt', '3.1.7' # for password porpuse ------------------------------
 gem 'will_paginate', '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
 
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 gem 'rmagick'
 
 # Use SCSS for stylesheets
